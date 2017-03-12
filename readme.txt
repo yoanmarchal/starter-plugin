@@ -51,3 +51,4 @@ We encourage everyone to contribute their ideas, thoughts and code snippets. Thi
 = 1.0.0 =
 * XXXX-XX-XX
 * Initial release. Woo!
+Codacy Badge
